@@ -1,5 +1,5 @@
 # hello_world
-A test thingy
+A test thingamajig
 
 This is a file
 
